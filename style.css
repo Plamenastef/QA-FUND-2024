@@ -3,5 +3,8 @@ ul{
     justify-content: space-around ;
 }
 li{
-    list-style-type: none;
+  
+}
+*{
+    background-color: aliceblue;
 }
